@@ -1,8 +1,8 @@
+# Research Replicability Report \- Goodnews Oshiogbele
+
 **Name**: Aimy Croner
 
 **Date of submission**: October 16th,2025
-
-**Topic**: Research Replicability Report \- Goodnews Oshiogbele
 
 **Poll: Were you able to reproduce the work based only on the program (not the code)?**
 
